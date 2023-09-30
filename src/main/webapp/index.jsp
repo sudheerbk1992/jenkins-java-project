@@ -22,7 +22,7 @@
                 <input type="password" required>
                 <label>SECRET</label>
             </div>
-            <button type="submit">నెట్‌ఫ్లిక్స్‌కి కి స్వాగతం</button>
+            <button type="submit">NETFLIX WELCOMES YOU</button>
             <div class="form-help"> 
                 <div class="remember-me">
                     <input type="checkbox" id="remember-me">
